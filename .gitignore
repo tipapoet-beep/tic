@@ -1,0 +1,52 @@
+# Flutter/Dart
+.dart_tool/
+build/
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Env
+.env
+*.env
+*.env.*
+
+# Keys
+*.keystore
+*.jks
+key.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+**/doc/api/
+.dartdoc/
+
+# Android
+android/app/key.properties
+android/app/*.keystore
+android/app/*.jks
+android/app/google-services.json
+android/local.properties
+android/keystore.properties
+
+# iOS
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Release.xcconfig
+ios/Flutter/Debug.xcconfig
+ios/Pods/
+ios/ServiceDefinitions.json
+ios/Runner/GoogleService-Info.plist

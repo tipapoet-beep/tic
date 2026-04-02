@@ -1,0 +1,6 @@
+[build]
+  publish = "build/web"
+
+[build.environment]
+  SUPABASE_URL=https://jcruwafswvxjumvicbeg.supabase.co
+  SUPABASE_ANON_KEY=sb_publishable_6bcUsPCH7Y2rsgdL6ZWJqQ_dLD4ncDN
